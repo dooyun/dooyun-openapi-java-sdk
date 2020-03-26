@@ -1,2 +1,2 @@
-# leicloud-openapi-java-sdk
-LeiCloud SDK for Java
+# dooyun-openapi-java-sdk
+Dooyun SDK for Java
